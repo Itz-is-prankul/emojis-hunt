@@ -1,4 +1,4 @@
-<h1 align="center">🎯 Emojis Hunt</h1>
+<h1 align="center">🎯 Emojis Mind Rush</h1>
 <p align="center">
   🧠 A fast-paced command-line memory game built with Python 🐍
 </p>
