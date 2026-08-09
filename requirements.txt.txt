@@ -1,0 +1,6 @@
+# Emojis Hunt
+# No external dependencies required.
+# Uses Python standard library modules:
+# random
+# time
+# os
