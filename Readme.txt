@@ -1,10 +1,14 @@
-<h1 align="center">🎯 Emojis Hunt</h1><p align="center">
+<h1 align="center">🎯 Emojis Hunt</h1>
+<p align="center">
   🧠 A fast-paced command-line memory game built with Python 🐍
-</p><p align="center">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status">
   <img src="https://img.shields.io/badge/Dependencies-None-orange" alt="Dependencies">
-</p>---
+</p>
+
+---
 
 🎮 About
 
@@ -54,11 +58,11 @@ The objective of Emojis Hunt is to build a fun and interactive memory-training g
 ---
 
 🚀 Installation
-'''bash
+```bash
 git clone https://github.com/Itz-is-prankul/emojis-hunt.git
 cd emojis-hunt
 python EmojisHunt.py
-'''bash
+
 ---
 
 🛠️ Requirements
@@ -127,9 +131,7 @@ emojis-hunt/
 ├── LICENSE
 ├── .gitignore
 ├── requirements.txt
-│
-└── docs/
-    └── emojis_hunt_documentation.pdf
+
 
 ---
 
@@ -182,11 +184,11 @@ Round 4 → ⏱️ Less Time
 Contributions are welcome! 🎉
 
 1. Fork the Repository
-
-git clone https://github.com/YOUR-USERNAME/emojis-hunt.git
+```bash
+git clone https://github.com/Itz-is-prankul/emojis-hunt.git
 
 2. Create a Branch
-
+```bash
 git checkout -b feature/new-feature
 
 3. Make Your Changes
@@ -194,12 +196,12 @@ git checkout -b feature/new-feature
 Modify and test the project.
 
 4. Commit Your Changes
-
+```bash
 git add .
 git commit -m "Add new feature"
 
 5. Push Your Branch
-
+```bash
 git push origin feature/new-feature
 
 Then create a Pull Request on GitHub.
@@ -222,6 +224,7 @@ If you like Emojis Hunt, consider giving this repository a ⭐ Star!
 
 <p align="center">
   <b>🧠 Remember • 🎯 Hunt • 🏆 Win</b>
-</p><p align="center">
+</p>
+<p align="center">
   Made with ❤️ and 🐍 Python
 </p>
