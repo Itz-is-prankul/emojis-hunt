@@ -62,7 +62,7 @@ The objective of Emojis Hunt is to build a fun and interactive memory-training g
 git clone https://github.com/Itz-is-prankul/emojis-hunt.git
 cd emojis-hunt
 python EmojisHunt.py
-
+```
 ---
 
 🛠️ Requirements
@@ -186,11 +186,11 @@ Contributions are welcome! 🎉
 1. Fork the Repository
 ```bash
 git clone https://github.com/Itz-is-prankul/emojis-hunt.git
-
+```
 2. Create a Branch
 ```bash
 git checkout -b feature/new-feature
-
+```
 3. Make Your Changes
 
 Modify and test the project.
@@ -199,11 +199,11 @@ Modify and test the project.
 ```bash
 git add .
 git commit -m "Add new feature"
-
+```
 5. Push Your Branch
 ```bash
 git push origin feature/new-feature
-
+```
 Then create a Pull Request on GitHub.
 
 ---
