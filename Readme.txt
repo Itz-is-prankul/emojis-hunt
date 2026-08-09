@@ -54,11 +54,11 @@ The objective of Emojis Hunt is to build a fun and interactive memory-training g
 ---
 
 🚀 Installation
-"""
+'''bash
 git clone https://github.com/YOUR-USERNAME/emojis-hunt.git
 cd emojis-hunt
 python EmojisHunt.py
-"""
+
 ---
 
 🛠️ Requirements
