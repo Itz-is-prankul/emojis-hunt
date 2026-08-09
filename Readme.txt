@@ -55,10 +55,10 @@ The objective of Emojis Hunt is to build a fun and interactive memory-training g
 
 🚀 Installation
 '''bash
-git clone https://github.com/YOUR-USERNAME/emojis-hunt.git
+git clone https://github.com/Itz-is-prankul/emojis-hunt.git
 cd emojis-hunt
 python EmojisHunt.py
-
+'''bash
 ---
 
 🛠️ Requirements
@@ -213,14 +213,6 @@ This project is open source.
 See the ""LICENSE"" (LICENSE) file for more information.
 
 ---
-
-👨‍💻 Author
-
-Prankul Tembhare
-
-💻 Python Developer
-🔐 Cyber Security Enthusiast
-🏆 CTF Player
 
 ---
 
